@@ -1,3 +1,4 @@
 First name: Manon
 Last name: Morgaut
 Age: 27
+Favorite food: Chocolate
